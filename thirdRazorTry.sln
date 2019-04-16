@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thirdRazorTry", "thirdRazorTry\thirdRazorTry.csproj", "{045D0BC0-F3DD-4420-ADBC-B791EE8B8611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thirdRazorTry.Tests", "thirdRazorTry.Tests\thirdRazorTry.Tests.csproj", "{AD237137-37A8-43DE-B8E5-0CF5D1F02899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045D0BC0-F3DD-4420-ADBC-B791EE8B8611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045D0BC0-F3DD-4420-ADBC-B791EE8B8611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045D0BC0-F3DD-4420-ADBC-B791EE8B8611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045D0BC0-F3DD-4420-ADBC-B791EE8B8611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD237137-37A8-43DE-B8E5-0CF5D1F02899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD237137-37A8-43DE-B8E5-0CF5D1F02899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD237137-37A8-43DE-B8E5-0CF5D1F02899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD237137-37A8-43DE-B8E5-0CF5D1F02899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
